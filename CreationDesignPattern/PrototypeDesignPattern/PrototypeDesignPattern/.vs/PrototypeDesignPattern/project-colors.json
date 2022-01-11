@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b0df13c4-088d-4c22-980e-99c315daed59": {
+      "ProjectGuid": "b0df13c4-088d-4c22-980e-99c315daed59",
+      "DisplayName": "PrototypeDesignPattern",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

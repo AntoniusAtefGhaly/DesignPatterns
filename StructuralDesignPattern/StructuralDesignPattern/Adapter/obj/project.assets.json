@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\training\\designPattern\\StructuralDesignPattern\\StructuralDesignPattern\\DP1_Proxy\\Proxy.csproj",
-      "projectName": "Proxy",
-      "projectPath": "D:\\training\\designPattern\\StructuralDesignPattern\\StructuralDesignPattern\\DP1_Proxy\\Proxy.csproj",
+      "projectUniqueName": "D:\\training\\designPattern\\StructuralDesignPattern\\StructuralDesignPattern\\Adapter\\Adapter.csproj",
+      "projectName": "Adapter",
+      "projectPath": "D:\\training\\designPattern\\StructuralDesignPattern\\StructuralDesignPattern\\Adapter\\Adapter.csproj",
       "packagesPath": "C:\\Users\\AntoniusA\\.nuget\\packages\\",
-      "outputPath": "D:\\training\\designPattern\\StructuralDesignPattern\\StructuralDesignPattern\\DP1_Proxy\\obj\\",
+      "outputPath": "D:\\training\\designPattern\\StructuralDesignPattern\\StructuralDesignPattern\\Adapter\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

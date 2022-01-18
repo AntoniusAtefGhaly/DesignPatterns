@@ -5,11 +5,13 @@ VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Proxy", "DP1_Proxy\Proxy.csproj", "{74F94214-3DF0-496B-8D04-1C8784866DE9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "DeCorator\Decorator.csproj", "{CA60FBC7-08E2-4527-BE00-784EAA7E8B31}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Decorator", "DeCorator\Decorator.csproj", "{CA60FBC7-08E2-4527-BE00-784EAA7E8B31}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "Adapter\Adapter.csproj", "{CED19CE5-339E-43DB-8DCE-A7C8B58E1464}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adapter", "Adapter\Adapter.csproj", "{CED19CE5-339E-43DB-8DCE-A7C8B58E1464}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facade", "Facade\Facade.csproj", "{B51A0B46-73A8-40E9-80B9-94E42C65B2D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Facade", "Facade\Facade.csproj", "{B51A0B46-73A8-40E9-80B9-94E42C65B2D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlyWeight", "FlyWeight\FlyWeight.csproj", "{C0EDB75F-BF0B-4AA9-B363-157AA01EBD6D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{B51A0B46-73A8-40E9-80B9-94E42C65B2D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B51A0B46-73A8-40E9-80B9-94E42C65B2D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B51A0B46-73A8-40E9-80B9-94E42C65B2D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0EDB75F-BF0B-4AA9-B363-157AA01EBD6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0EDB75F-BF0B-4AA9-B363-157AA01EBD6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0EDB75F-BF0B-4AA9-B363-157AA01EBD6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0EDB75F-BF0B-4AA9-B363-157AA01EBD6D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

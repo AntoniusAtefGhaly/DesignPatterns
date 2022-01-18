@@ -2,39 +2,44 @@ namespace Facade
 {
     public class PurchaseOrder
     {
-        public bool CreateOrder(ShoppingBasket basket,
-                                string custInfo){
-               // check stock
-               bool isAvailable =true;
-               Inventory inventory = new Inventory ();
-               
-               foreach(var item in basket.GetItems()){
-                if(!inventory.CheckItemQuantity(item.ItemID,item.Quantity))
-                 isAvailable=false ;
-               }
-               
-               if(isAvailable){
-                    // Create Inventory Order
-               InventoryOrder inventoryOrder=new InventoryOrder ();
-               inventoryOrder.CreateOrder(basket,"123");
+        public bool CreateOrder(ShoppingBasket basket, string custInfo)
+        {
+            #region facade
 
-               // Create Invoice 
-               PurchaseInvoice invoice = new PurchaseInvoice ();
-               var inv=invoice.CreateInvoce(basket,"address:132,id=456,email=xyz");
-               
-               // Payment
-               PaymentProcessor payment=new PaymentProcessor ();
-               payment.HandlePayment(inv.netTotal,"acc=123456789");
+            //check stock
+            bool isAvailable = true;
+            Inventory inventory = new Inventory();
+            foreach (BasketItem item in basket.GetItems())
+            {
+                if (!inventory.CheckItemQuantity(item.ItemID, item.Quantity))
+                {
+                    isAvailable = false;
+                }
+            }
+            if (isAvailable)
+            {
+                //create inventory order
+                InventoryOrder inventoryOrder = new InventoryOrder();
+                inventoryOrder.CreateOrder(basket, "1");
 
-               // Send SMS
-               SmsNotifications sms=new SmsNotifications ();
-               sms.SendSms("123","Invoice Created");
+                //create inovice
+                PurchaseInvoice invoice = new PurchaseInvoice();
+                var inv = invoice.CreateInvoce(basket, custInfo);
 
-               return true;
-               }else {return false ;}
-               
-               
-              
-       }
+                //payment
+                PaymentProcessor payment = new PaymentProcessor();
+                payment.HandlePayment(inv.netTotal, "cib1238535");
+
+                //send SMS
+                SmsNotifications sms = new SmsNotifications();
+                sms.SendSms("123", "invoice created");
+
+                return true;
+            }
+            else
+                return false;
+            #endregion
+
+        }
     }
 }

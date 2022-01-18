@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NWP9IjahxODEYj6G2msCshJObgTM5rLfEB15IgX/fQfAG+6pUfXUyWY/ZV2u1PINFxVUZ5Jz1o9Wetz49aFuVw==",
+  "dgSpecHash": "zB06VqG5PGG1bhoZfz3QWZqljJbK/G7oDnuvAZCd8E4UiRpysIfD+9Vn8p6Q5gymCKMu7MCI1cTJWXaoeGuJ8Q==",
   "success": true,
-  "projectFilePath": "D:\\training\\designPattern\\StructuralDesignPattern\\StructuralDesignPattern\\Facade\\Facade.csproj",
+  "projectFilePath": "D:\\1.NET\\Design pattern\\DesignPatterns\\StructuralDesignPattern\\StructuralDesignPattern\\Facade\\Facade.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

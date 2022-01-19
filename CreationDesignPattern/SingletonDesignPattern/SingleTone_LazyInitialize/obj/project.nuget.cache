@@ -1,8 +1,0 @@
-{
-  "version": 2,
-  "dgSpecHash": "k5WYV4r820jk3TPy877d/ZzdaJ1YVcoGwIP/GkmUw1d0dMmeimskfk+HTk+hYax1FddNntS/I0Q4H+XsTHHQOA==",
-  "success": true,
-  "projectFilePath": "D:\\training\\designPattern\\CreationDesignPattern\\SingletonDesignPattern\\SingleTone_LazyInitialize\\SingleTone_LazyInitialize.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
-}

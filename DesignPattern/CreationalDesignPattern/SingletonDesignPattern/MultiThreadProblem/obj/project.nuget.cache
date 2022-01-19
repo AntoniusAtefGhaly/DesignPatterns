@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "HGxFsSWSdVcRpI9AMJD+ONAROpPb6M2kB7JSNQVzoYucWjCQVLXdaA3rP0aq2h5J8ib4j0Npllhumsi0/LNDZA==",
+  "success": true,
+  "projectFilePath": "D:\\training\\designPattern\\DesignPattern\\CreationalDesignPattern\\SingletonDesignPattern\\MultiThreadProblem\\MultiThreadProblem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AntoniusA\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.1\\microsoft.aspnetcore.authorization.6.0.1.nupkg.sha512",
+    "C:\\Users\\AntoniusA\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.1\\microsoft.aspnetcore.components.6.0.1.nupkg.sha512",
+    "C:\\Users\\AntoniusA\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\6.0.1\\microsoft.aspnetcore.components.analyzers.6.0.1.nupkg.sha512",
+    "C:\\Users\\AntoniusA\\.nuget\\packages\\microsoft.aspnetcore.metadata\\6.0.1\\microsoft.aspnetcore.metadata.6.0.1.nupkg.sha512",
+    "C:\\Users\\AntoniusA\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\AntoniusA\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\AntoniusA\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\AntoniusA\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\AntoniusA\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

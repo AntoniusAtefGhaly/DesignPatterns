@@ -1,0 +1,15 @@
+D:\training\designPattern\StructuralDesignPattern\StructuralDesignPattern\DP1_Proxy\bin\Debug\net6.0\DP1_Proxy.exe
+D:\training\designPattern\StructuralDesignPattern\StructuralDesignPattern\DP1_Proxy\bin\Debug\net6.0\DP1_Proxy.deps.json
+D:\training\designPattern\StructuralDesignPattern\StructuralDesignPattern\DP1_Proxy\bin\Debug\net6.0\DP1_Proxy.runtimeconfig.json
+D:\training\designPattern\StructuralDesignPattern\StructuralDesignPattern\DP1_Proxy\bin\Debug\net6.0\DP1_Proxy.dll
+D:\training\designPattern\StructuralDesignPattern\StructuralDesignPattern\DP1_Proxy\bin\Debug\net6.0\ref\DP1_Proxy.dll
+D:\training\designPattern\StructuralDesignPattern\StructuralDesignPattern\DP1_Proxy\bin\Debug\net6.0\DP1_Proxy.pdb
+D:\training\designPattern\StructuralDesignPattern\StructuralDesignPattern\DP1_Proxy\obj\Debug\net6.0\DP1_Proxy.csproj.AssemblyReference.cache
+D:\training\designPattern\StructuralDesignPattern\StructuralDesignPattern\DP1_Proxy\obj\Debug\net6.0\DP1_Proxy.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\designPattern\StructuralDesignPattern\StructuralDesignPattern\DP1_Proxy\obj\Debug\net6.0\DP1_Proxy.AssemblyInfoInputs.cache
+D:\training\designPattern\StructuralDesignPattern\StructuralDesignPattern\DP1_Proxy\obj\Debug\net6.0\DP1_Proxy.AssemblyInfo.cs
+D:\training\designPattern\StructuralDesignPattern\StructuralDesignPattern\DP1_Proxy\obj\Debug\net6.0\DP1_Proxy.csproj.CoreCompileInputs.cache
+D:\training\designPattern\StructuralDesignPattern\StructuralDesignPattern\DP1_Proxy\obj\Debug\net6.0\DP1_Proxy.dll
+D:\training\designPattern\StructuralDesignPattern\StructuralDesignPattern\DP1_Proxy\obj\Debug\net6.0\ref\DP1_Proxy.dll
+D:\training\designPattern\StructuralDesignPattern\StructuralDesignPattern\DP1_Proxy\obj\Debug\net6.0\DP1_Proxy.pdb
+D:\training\designPattern\StructuralDesignPattern\StructuralDesignPattern\DP1_Proxy\obj\Debug\net6.0\DP1_Proxy.genruntimeconfig.cache

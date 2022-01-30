@@ -10,7 +10,8 @@ namespace Bridge
     {
         public override void MoveToCurrentState()
         {
-            throw new NotImplementedException();
+            Console.Write("\ntelvison is at ");
+            state.MoveState();
         }
     }
 }

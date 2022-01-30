@@ -8,6 +8,18 @@ namespace Bridge
 {
     abstract internal class ElectronicGoods
     {
+        protected IState state;
+        public IState State
+        {
+            get
+            {
+                return state;
+            }
+            set 
+            { 
+                state = value;
+            }
+        }
         abstract public void MoveToCurrentState();
     }
 }

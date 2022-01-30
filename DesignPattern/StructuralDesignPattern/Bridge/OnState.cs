@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace Bridge
 {
-    internal class OnState
+    internal class OnState : IState
     {
+        public void MoveState()
+        {
+            Console.Write("ON State");
+        }
     }
 }

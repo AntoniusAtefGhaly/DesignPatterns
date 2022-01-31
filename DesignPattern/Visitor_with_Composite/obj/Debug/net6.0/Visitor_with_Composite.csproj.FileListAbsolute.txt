@@ -1,0 +1,15 @@
+D:\training\designPattern\DesignPattern\Visitor_with_Composite\bin\Debug\net6.0\Visitor_with_Composite.exe
+D:\training\designPattern\DesignPattern\Visitor_with_Composite\bin\Debug\net6.0\Visitor_with_Composite.deps.json
+D:\training\designPattern\DesignPattern\Visitor_with_Composite\bin\Debug\net6.0\Visitor_with_Composite.runtimeconfig.json
+D:\training\designPattern\DesignPattern\Visitor_with_Composite\bin\Debug\net6.0\Visitor_with_Composite.dll
+D:\training\designPattern\DesignPattern\Visitor_with_Composite\bin\Debug\net6.0\ref\Visitor_with_Composite.dll
+D:\training\designPattern\DesignPattern\Visitor_with_Composite\bin\Debug\net6.0\Visitor_with_Composite.pdb
+D:\training\designPattern\DesignPattern\Visitor_with_Composite\obj\Debug\net6.0\Visitor_with_Composite.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\designPattern\DesignPattern\Visitor_with_Composite\obj\Debug\net6.0\Visitor_with_Composite.AssemblyInfoInputs.cache
+D:\training\designPattern\DesignPattern\Visitor_with_Composite\obj\Debug\net6.0\Visitor_with_Composite.AssemblyInfo.cs
+D:\training\designPattern\DesignPattern\Visitor_with_Composite\obj\Debug\net6.0\Visitor_with_Composite.csproj.CoreCompileInputs.cache
+D:\training\designPattern\DesignPattern\Visitor_with_Composite\obj\Debug\net6.0\Visitor_with_Composite.dll
+D:\training\designPattern\DesignPattern\Visitor_with_Composite\obj\Debug\net6.0\ref\Visitor_with_Composite.dll
+D:\training\designPattern\DesignPattern\Visitor_with_Composite\obj\Debug\net6.0\Visitor_with_Composite.pdb
+D:\training\designPattern\DesignPattern\Visitor_with_Composite\obj\Debug\net6.0\Visitor_with_Composite.genruntimeconfig.cache
+D:\training\designPattern\DesignPattern\Visitor_with_Composite\obj\Debug\net6.0\Visitor_with_Composite.csproj.AssemblyReference.cache

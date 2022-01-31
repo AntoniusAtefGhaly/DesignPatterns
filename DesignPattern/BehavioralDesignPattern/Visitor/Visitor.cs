@@ -11,7 +11,7 @@ namespace Visitor
         public void Visit(MyClass myClass)
         {
             Console.WriteLine("Visitor is trying to change the integervalue.");
-           myClass.MyInt=9;
+            myClass.MyInt = 9;
             Console.WriteLine("Exiting from Visitor.");
         }
     }

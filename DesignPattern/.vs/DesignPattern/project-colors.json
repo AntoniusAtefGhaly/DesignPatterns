@@ -5,7 +5,22 @@
       "ProjectGuid": "2a723fc7-0a60-491d-8446-336ba6ecb2b6",
       "DisplayName": "Bridge",
       "ColorIndex": 0
+    },
+    "e3dcb08a-e169-419e-b03a-7c1e6280f386": {
+      "ProjectGuid": "e3dcb08a-e169-419e-b03a-7c1e6280f386",
+      "DisplayName": "Proxy",
+      "ColorIndex": 1
+    },
+    "605e196e-cc6c-4145-86bb-01d1ef4add35": {
+      "ProjectGuid": "605e196e-cc6c-4145-86bb-01d1ef4add35",
+      "DisplayName": "Composite",
+      "ColorIndex": 2
+    },
+    "f8b23d4e-fa25-4322-a188-74dcf50de363": {
+      "ProjectGuid": "f8b23d4e-fa25-4322-a188-74dcf50de363",
+      "DisplayName": "Visitor",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 4
 }

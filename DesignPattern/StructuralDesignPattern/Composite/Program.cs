@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Composite // Note: actual namespace depends on the project name.
+namespace Visitor // Note: actual namespace depends on the project name.
 {
     internal class Program
     {

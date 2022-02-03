@@ -20,7 +20,17 @@
       "ProjectGuid": "f8b23d4e-fa25-4322-a188-74dcf50de363",
       "DisplayName": "Visitor",
       "ColorIndex": 3
+    },
+    "4a5f1048-8e88-4d6f-a845-d02b6c2d785e": {
+      "ProjectGuid": "4a5f1048-8e88-4d6f-a845-d02b6c2d785e",
+      "DisplayName": "Visitor_with_Composite",
+      "ColorIndex": 4
+    },
+    "37a2943f-7dc9-4a84-86f0-e077b384ee93": {
+      "ProjectGuid": "37a2943f-7dc9-4a84-86f0-e077b384ee93",
+      "DisplayName": "Observer",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 6
 }

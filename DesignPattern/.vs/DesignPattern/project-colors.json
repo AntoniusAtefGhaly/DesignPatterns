@@ -30,7 +30,17 @@
       "ProjectGuid": "37a2943f-7dc9-4a84-86f0-e077b384ee93",
       "DisplayName": "Observer",
       "ColorIndex": 5
+    },
+    "bc85d0d9-696c-4817-83f9-7d690f9d7235": {
+      "ProjectGuid": "bc85d0d9-696c-4817-83f9-7d690f9d7235",
+      "DisplayName": "azure",
+      "ColorIndex": 6
+    },
+    "e8149d5d-fcc7-43a6-b491-577fece1107e": {
+      "ProjectGuid": "e8149d5d-fcc7-43a6-b491-577fece1107e",
+      "DisplayName": "Strategy",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 8
 }

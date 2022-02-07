@@ -1,0 +1,15 @@
+D:\training\designPattern\DesignPattern\BehavioralDesignPattern\TemplateMethod\bin\Debug\net6.0\TemplateMethod.exe
+D:\training\designPattern\DesignPattern\BehavioralDesignPattern\TemplateMethod\bin\Debug\net6.0\TemplateMethod.deps.json
+D:\training\designPattern\DesignPattern\BehavioralDesignPattern\TemplateMethod\bin\Debug\net6.0\TemplateMethod.runtimeconfig.json
+D:\training\designPattern\DesignPattern\BehavioralDesignPattern\TemplateMethod\bin\Debug\net6.0\TemplateMethod.dll
+D:\training\designPattern\DesignPattern\BehavioralDesignPattern\TemplateMethod\bin\Debug\net6.0\ref\TemplateMethod.dll
+D:\training\designPattern\DesignPattern\BehavioralDesignPattern\TemplateMethod\bin\Debug\net6.0\TemplateMethod.pdb
+D:\training\designPattern\DesignPattern\BehavioralDesignPattern\TemplateMethod\obj\Debug\net6.0\TemplateMethod.csproj.AssemblyReference.cache
+D:\training\designPattern\DesignPattern\BehavioralDesignPattern\TemplateMethod\obj\Debug\net6.0\TemplateMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\designPattern\DesignPattern\BehavioralDesignPattern\TemplateMethod\obj\Debug\net6.0\TemplateMethod.AssemblyInfoInputs.cache
+D:\training\designPattern\DesignPattern\BehavioralDesignPattern\TemplateMethod\obj\Debug\net6.0\TemplateMethod.AssemblyInfo.cs
+D:\training\designPattern\DesignPattern\BehavioralDesignPattern\TemplateMethod\obj\Debug\net6.0\TemplateMethod.csproj.CoreCompileInputs.cache
+D:\training\designPattern\DesignPattern\BehavioralDesignPattern\TemplateMethod\obj\Debug\net6.0\TemplateMethod.dll
+D:\training\designPattern\DesignPattern\BehavioralDesignPattern\TemplateMethod\obj\Debug\net6.0\ref\TemplateMethod.dll
+D:\training\designPattern\DesignPattern\BehavioralDesignPattern\TemplateMethod\obj\Debug\net6.0\TemplateMethod.pdb
+D:\training\designPattern\DesignPattern\BehavioralDesignPattern\TemplateMethod\obj\Debug\net6.0\TemplateMethod.genruntimeconfig.cache

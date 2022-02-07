@@ -1,0 +1,15 @@
+D:\training\designPattern\DesignPattern\BehavioralDesignPattern\Strategy\bin\Debug\net6.0\Strategy.exe
+D:\training\designPattern\DesignPattern\BehavioralDesignPattern\Strategy\bin\Debug\net6.0\Strategy.deps.json
+D:\training\designPattern\DesignPattern\BehavioralDesignPattern\Strategy\bin\Debug\net6.0\Strategy.runtimeconfig.json
+D:\training\designPattern\DesignPattern\BehavioralDesignPattern\Strategy\bin\Debug\net6.0\Strategy.dll
+D:\training\designPattern\DesignPattern\BehavioralDesignPattern\Strategy\bin\Debug\net6.0\ref\Strategy.dll
+D:\training\designPattern\DesignPattern\BehavioralDesignPattern\Strategy\bin\Debug\net6.0\Strategy.pdb
+D:\training\designPattern\DesignPattern\BehavioralDesignPattern\Strategy\obj\Debug\net6.0\Strategy.csproj.AssemblyReference.cache
+D:\training\designPattern\DesignPattern\BehavioralDesignPattern\Strategy\obj\Debug\net6.0\Strategy.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\designPattern\DesignPattern\BehavioralDesignPattern\Strategy\obj\Debug\net6.0\Strategy.AssemblyInfoInputs.cache
+D:\training\designPattern\DesignPattern\BehavioralDesignPattern\Strategy\obj\Debug\net6.0\Strategy.AssemblyInfo.cs
+D:\training\designPattern\DesignPattern\BehavioralDesignPattern\Strategy\obj\Debug\net6.0\Strategy.csproj.CoreCompileInputs.cache
+D:\training\designPattern\DesignPattern\BehavioralDesignPattern\Strategy\obj\Debug\net6.0\Strategy.dll
+D:\training\designPattern\DesignPattern\BehavioralDesignPattern\Strategy\obj\Debug\net6.0\ref\Strategy.dll
+D:\training\designPattern\DesignPattern\BehavioralDesignPattern\Strategy\obj\Debug\net6.0\Strategy.pdb
+D:\training\designPattern\DesignPattern\BehavioralDesignPattern\Strategy\obj\Debug\net6.0\Strategy.genruntimeconfig.cache

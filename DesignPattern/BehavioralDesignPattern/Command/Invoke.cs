@@ -11,11 +11,11 @@ namespace Command
         ICommand CommandToBePerformed;
         public void ExecuteCommand()
         {
-
+            CommandToBePerformed.Do();
         }
-        public void SetCommand()
+        public void SetCommand(ICommand command)
         {
-
+            CommandToBePerformed = command;
         }
     }
 }

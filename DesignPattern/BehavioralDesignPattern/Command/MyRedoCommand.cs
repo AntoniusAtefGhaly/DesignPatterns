@@ -8,9 +8,15 @@ namespace Command
 {
     internal class MyRedoCommand : ICommand
     {
+        Reciever reciever;
+        public MyRedoCommand(Reciever reciever)
+        {
+            this.reciever = reciever;
+        }
         public void Do()
         {
-            throw new NotImplementedException();
+            reciever.OptionalTaskToRedo();
+            reciever.PerformRedo();
         }
     }
 }

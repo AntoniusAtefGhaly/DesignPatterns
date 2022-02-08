@@ -1,0 +1,15 @@
+D:\training\designPattern\DesignPattern\BehavioralDesignPattern\Command_Modified\bin\Debug\net6.0\Command_Modified.exe
+D:\training\designPattern\DesignPattern\BehavioralDesignPattern\Command_Modified\bin\Debug\net6.0\Command_Modified.deps.json
+D:\training\designPattern\DesignPattern\BehavioralDesignPattern\Command_Modified\bin\Debug\net6.0\Command_Modified.runtimeconfig.json
+D:\training\designPattern\DesignPattern\BehavioralDesignPattern\Command_Modified\bin\Debug\net6.0\Command_Modified.dll
+D:\training\designPattern\DesignPattern\BehavioralDesignPattern\Command_Modified\bin\Debug\net6.0\ref\Command_Modified.dll
+D:\training\designPattern\DesignPattern\BehavioralDesignPattern\Command_Modified\bin\Debug\net6.0\Command_Modified.pdb
+D:\training\designPattern\DesignPattern\BehavioralDesignPattern\Command_Modified\obj\Debug\net6.0\Command_Modified.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\designPattern\DesignPattern\BehavioralDesignPattern\Command_Modified\obj\Debug\net6.0\Command_Modified.AssemblyInfoInputs.cache
+D:\training\designPattern\DesignPattern\BehavioralDesignPattern\Command_Modified\obj\Debug\net6.0\Command_Modified.AssemblyInfo.cs
+D:\training\designPattern\DesignPattern\BehavioralDesignPattern\Command_Modified\obj\Debug\net6.0\Command_Modified.csproj.CoreCompileInputs.cache
+D:\training\designPattern\DesignPattern\BehavioralDesignPattern\Command_Modified\obj\Debug\net6.0\Command_Modified.dll
+D:\training\designPattern\DesignPattern\BehavioralDesignPattern\Command_Modified\obj\Debug\net6.0\ref\Command_Modified.dll
+D:\training\designPattern\DesignPattern\BehavioralDesignPattern\Command_Modified\obj\Debug\net6.0\Command_Modified.pdb
+D:\training\designPattern\DesignPattern\BehavioralDesignPattern\Command_Modified\obj\Debug\net6.0\Command_Modified.genruntimeconfig.cache
+D:\training\designPattern\DesignPattern\BehavioralDesignPattern\Command_Modified\obj\Debug\net6.0\Command_Modified.csproj.AssemblyReference.cache

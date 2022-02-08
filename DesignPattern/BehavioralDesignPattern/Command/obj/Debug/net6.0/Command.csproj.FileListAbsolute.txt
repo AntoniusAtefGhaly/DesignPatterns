@@ -1,0 +1,14 @@
+D:\training\designPattern\DesignPattern\BehavioralDesignPattern\Command\bin\Debug\net6.0\Command.exe
+D:\training\designPattern\DesignPattern\BehavioralDesignPattern\Command\bin\Debug\net6.0\Command.deps.json
+D:\training\designPattern\DesignPattern\BehavioralDesignPattern\Command\bin\Debug\net6.0\Command.runtimeconfig.json
+D:\training\designPattern\DesignPattern\BehavioralDesignPattern\Command\bin\Debug\net6.0\Command.dll
+D:\training\designPattern\DesignPattern\BehavioralDesignPattern\Command\bin\Debug\net6.0\ref\Command.dll
+D:\training\designPattern\DesignPattern\BehavioralDesignPattern\Command\bin\Debug\net6.0\Command.pdb
+D:\training\designPattern\DesignPattern\BehavioralDesignPattern\Command\obj\Debug\net6.0\Command.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\designPattern\DesignPattern\BehavioralDesignPattern\Command\obj\Debug\net6.0\Command.AssemblyInfoInputs.cache
+D:\training\designPattern\DesignPattern\BehavioralDesignPattern\Command\obj\Debug\net6.0\Command.AssemblyInfo.cs
+D:\training\designPattern\DesignPattern\BehavioralDesignPattern\Command\obj\Debug\net6.0\Command.csproj.CoreCompileInputs.cache
+D:\training\designPattern\DesignPattern\BehavioralDesignPattern\Command\obj\Debug\net6.0\Command.dll
+D:\training\designPattern\DesignPattern\BehavioralDesignPattern\Command\obj\Debug\net6.0\ref\Command.dll
+D:\training\designPattern\DesignPattern\BehavioralDesignPattern\Command\obj\Debug\net6.0\Command.pdb
+D:\training\designPattern\DesignPattern\BehavioralDesignPattern\Command\obj\Debug\net6.0\Command.genruntimeconfig.cache

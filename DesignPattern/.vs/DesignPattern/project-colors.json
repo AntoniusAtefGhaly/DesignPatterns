@@ -40,7 +40,22 @@
       "ProjectGuid": "e8149d5d-fcc7-43a6-b491-577fece1107e",
       "DisplayName": "Strategy",
       "ColorIndex": 7
+    },
+    "fc806102-701f-4002-be36-fbb5482ac305": {
+      "ProjectGuid": "fc806102-701f-4002-be36-fbb5482ac305",
+      "DisplayName": "Observer",
+      "ColorIndex": 8
+    },
+    "d5d27038-e27e-4ce2-b622-b2163e8a83e5": {
+      "ProjectGuid": "d5d27038-e27e-4ce2-b622-b2163e8a83e5",
+      "DisplayName": "TemplateMethod",
+      "ColorIndex": 9
+    },
+    "341430aa-fa99-4234-a434-3fac72e67872": {
+      "ProjectGuid": "341430aa-fa99-4234-a434-3fac72e67872",
+      "DisplayName": "Command",
+      "ColorIndex": 10
     }
   },
-  "NextColorIndex": 8
+  "NextColorIndex": 11
 }

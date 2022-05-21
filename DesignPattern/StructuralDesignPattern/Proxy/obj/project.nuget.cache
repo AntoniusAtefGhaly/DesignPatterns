@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/SyMYgrNjjFjLNJKRI2SPAiIkW5JNybTHunLSxxK7zUTVM11ogIYWrEBnSlwQAmKY8+LbQoc7sT73qI1gPkYXQ==",
+  "dgSpecHash": "aJLbSS2lMWa11pZ8bnwV3Amo4A+1oZiFH2brxOQj7bgbhN4EOYk/GeefJKDESHjNGz+XZtooRkqjZIf/YTt7kQ==",
   "success": true,
-  "projectFilePath": "D:\\training\\designPattern\\DesignPattern\\StructuralDesignPattern\\Proxy\\Proxy.csproj",
+  "projectFilePath": "D:\\1.NET\\Design pattern\\DesignPatterns\\DesignPattern\\StructuralDesignPattern\\Proxy\\Proxy.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

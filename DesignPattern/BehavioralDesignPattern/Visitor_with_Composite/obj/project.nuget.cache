@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EPAzzXdjTMCcBtUK94eth4L52P9AzbiWBv7m+ZSg6gGwsTfMBpklXEkQ5fY/NfXRhrLd8BB2iZZ5RmkqS7ogKQ==",
+  "dgSpecHash": "GNWSMtIqGkBjSUZWG7ONK1GhGKUciSfpnkucRZcmqR5FsSPxt8a4hlz7php+2ATX+pldOEGAPxDqrFHLigaqdQ==",
   "success": true,
-  "projectFilePath": "D:\\training\\designPattern\\DesignPattern\\BehavioralDesignPattern\\Visitor_with_Composite\\Visitor_with_Composite.csproj",
+  "projectFilePath": "D:\\1.NET\\Design pattern\\DesignPatterns\\DesignPattern\\BehavioralDesignPattern\\Visitor_with_Composite\\Visitor_with_Composite.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

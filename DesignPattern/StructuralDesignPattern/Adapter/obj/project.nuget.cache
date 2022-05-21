@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZyEmqNJW5b8RMv/jgSce9EAJnod3xJZ0hhAibEOODhOV0qVAFUf8DTL6ZG1MzNgnlEDWhp+GOjmh/TI+mQ8tQA==",
+  "dgSpecHash": "JymwkYP1eDQGSlBqurZu1wgNOunWjRDiG80Y94k8cnZCIbYCxfBSN9Yc4UVO1P0VhrjK+PmY096eqBMOqofrrA==",
   "success": true,
-  "projectFilePath": "D:\\training\\designPattern\\DesignPattern\\StructuralDesignPattern\\Adapter\\Adapter.csproj",
+  "projectFilePath": "D:\\1.NET\\Design pattern\\DesignPatterns\\DesignPattern\\StructuralDesignPattern\\Adapter\\Adapter.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NZR9Vwqf9yXwJ7DQQzrEuAkvQwKWVTrlqHg6+R7SAx/3sQ/JqhyFroD4HTFgEB0O4wPwAhmM/Hw0qAcsz5S++w==",
+  "dgSpecHash": "V4Li+R2J+Lo/cpgfKpIcAsQNdf/6HJhO1YHGDfGPM7u62LyJ/dBtjWTwA3BPrl4i57uUWx5Sh6uqAhwPVvdPCw==",
   "success": true,
-  "projectFilePath": "D:\\training\\designPattern\\DesignPattern\\StructuralDesignPattern\\FlyWeight\\FlyWeight.csproj",
+  "projectFilePath": "D:\\1.NET\\Design pattern\\DesignPatterns\\DesignPattern\\StructuralDesignPattern\\FlyWeight\\FlyWeight.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

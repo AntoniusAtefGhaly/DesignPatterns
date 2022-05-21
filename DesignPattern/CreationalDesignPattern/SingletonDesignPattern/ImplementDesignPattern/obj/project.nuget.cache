@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wRcrDdd1M3WAVpZfPzlxKZ0ZBLtps/DkqrfYpxpy0A/kgHPyTi02IXujCvleYE/oSdzgXDhY6BVnbpIfhPtdqA==",
+  "dgSpecHash": "csw1YafB5oVjDKgWyWS72DsiT006pAxbJVew216IVCpP53zutB5No2+xwNNVQN3Ykju3uBTXa11HJeXQr7Vitg==",
   "success": true,
-  "projectFilePath": "D:\\training\\designPattern\\DesignPattern\\CreationalDesignPattern\\SingletonDesignPattern\\ImplementDesignPattern\\ImplementDesignPattern.csproj",
+  "projectFilePath": "D:\\1.NET\\Design pattern\\DesignPatterns\\DesignPattern\\CreationalDesignPattern\\SingletonDesignPattern\\ImplementDesignPattern\\ImplementDesignPattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

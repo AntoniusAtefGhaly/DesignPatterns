@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ak6qN0ivfXYoR0uroIP0nXC0KE3aIEBCqBkL/Oo9i3E/Yh1c+WUZk8Bh7VW67I2Iuh44Sdyu5glVKeyYosqa0g==",
+  "dgSpecHash": "uo89cPD7zsZaBL4OamD/BfKd1DTnr+n97tTNaoQruWXc4+gCxMaL4IDwJrZQ3kKAe4cNVqL/9/R1hrPNzMh6cg==",
   "success": true,
-  "projectFilePath": "D:\\training\\designPattern\\DesignPattern\\BehavioralDesignPattern\\Strategy\\Strategy.csproj",
+  "projectFilePath": "D:\\1.NET\\Design pattern\\DesignPatterns\\DesignPattern\\BehavioralDesignPattern\\Strategy\\Strategy.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

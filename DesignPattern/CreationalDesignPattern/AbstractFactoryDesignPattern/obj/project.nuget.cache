@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z4axLVOqokP9ReEkuqSIsqmgWyzbUqo6ri1Tlb3lCggHVD6DHWtVKcMvINGRPvgHD74RDelpFM50H7wJUQlqKA==",
+  "dgSpecHash": "4yOfSfPgG+kHT8zWE6J9IKKiuEG5cFNqTVaWzTiz2/JGK2rtkPq6FB7R5oVRbA99OAZ97QsJ59KH6IxqK0UBQA==",
   "success": true,
-  "projectFilePath": "D:\\training\\designPattern\\DesignPattern\\CreationalDesignPattern\\AbstractFactoryDesignPattern\\AbstractFactoryDesignPattern.csproj",
+  "projectFilePath": "D:\\1.NET\\Design pattern\\DesignPatterns\\DesignPattern\\CreationalDesignPattern\\AbstractFactoryDesignPattern\\AbstractFactoryDesignPattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -13,3 +13,18 @@ D:\training\designPattern\DesignPattern\BehavioralDesignPattern\Iterator\obj\Deb
 D:\training\designPattern\DesignPattern\BehavioralDesignPattern\Iterator\obj\Debug\net6.0\ref\Iterator.dll
 D:\training\designPattern\DesignPattern\BehavioralDesignPattern\Iterator\obj\Debug\net6.0\Iterator.pdb
 D:\training\designPattern\DesignPattern\BehavioralDesignPattern\Iterator\obj\Debug\net6.0\Iterator.genruntimeconfig.cache
+D:\1.NET\Design pattern\DesignPatterns\DesignPattern\BehavioralDesignPattern\Iterator\bin\Debug\net6.0\Iterator.exe
+D:\1.NET\Design pattern\DesignPatterns\DesignPattern\BehavioralDesignPattern\Iterator\bin\Debug\net6.0\Iterator.deps.json
+D:\1.NET\Design pattern\DesignPatterns\DesignPattern\BehavioralDesignPattern\Iterator\bin\Debug\net6.0\Iterator.runtimeconfig.json
+D:\1.NET\Design pattern\DesignPatterns\DesignPattern\BehavioralDesignPattern\Iterator\bin\Debug\net6.0\Iterator.dll
+D:\1.NET\Design pattern\DesignPatterns\DesignPattern\BehavioralDesignPattern\Iterator\bin\Debug\net6.0\ref\Iterator.dll
+D:\1.NET\Design pattern\DesignPatterns\DesignPattern\BehavioralDesignPattern\Iterator\bin\Debug\net6.0\Iterator.pdb
+D:\1.NET\Design pattern\DesignPatterns\DesignPattern\BehavioralDesignPattern\Iterator\obj\Debug\net6.0\Iterator.csproj.AssemblyReference.cache
+D:\1.NET\Design pattern\DesignPatterns\DesignPattern\BehavioralDesignPattern\Iterator\obj\Debug\net6.0\Iterator.GeneratedMSBuildEditorConfig.editorconfig
+D:\1.NET\Design pattern\DesignPatterns\DesignPattern\BehavioralDesignPattern\Iterator\obj\Debug\net6.0\Iterator.AssemblyInfoInputs.cache
+D:\1.NET\Design pattern\DesignPatterns\DesignPattern\BehavioralDesignPattern\Iterator\obj\Debug\net6.0\Iterator.AssemblyInfo.cs
+D:\1.NET\Design pattern\DesignPatterns\DesignPattern\BehavioralDesignPattern\Iterator\obj\Debug\net6.0\Iterator.csproj.CoreCompileInputs.cache
+D:\1.NET\Design pattern\DesignPatterns\DesignPattern\BehavioralDesignPattern\Iterator\obj\Debug\net6.0\Iterator.dll
+D:\1.NET\Design pattern\DesignPatterns\DesignPattern\BehavioralDesignPattern\Iterator\obj\Debug\net6.0\ref\Iterator.dll
+D:\1.NET\Design pattern\DesignPatterns\DesignPattern\BehavioralDesignPattern\Iterator\obj\Debug\net6.0\Iterator.pdb
+D:\1.NET\Design pattern\DesignPatterns\DesignPattern\BehavioralDesignPattern\Iterator\obj\Debug\net6.0\Iterator.genruntimeconfig.cache

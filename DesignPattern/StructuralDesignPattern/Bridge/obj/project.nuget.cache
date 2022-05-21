@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dj3ACwD8dReQFrRmWK8OkGWG2jqr1tB8MWvCaopxWuQ0FOsb9+OzSsjnOVWuNRPEdIA8rA9Wpg8IF0V+gDGUjw==",
+  "dgSpecHash": "fRcayA0Mu+Zisxb5GUAK7dvHy7X5DnO1tORgEzuD2bzqWBosB2/yI49orTQXVlyoMz0FOblrxsVjCPvZCVUQYg==",
   "success": true,
-  "projectFilePath": "D:\\training\\designPattern\\DesignPattern\\StructuralDesignPattern\\Bridge\\Bridge.csproj",
+  "projectFilePath": "D:\\1.NET\\Design pattern\\DesignPatterns\\DesignPattern\\StructuralDesignPattern\\Bridge\\Bridge.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

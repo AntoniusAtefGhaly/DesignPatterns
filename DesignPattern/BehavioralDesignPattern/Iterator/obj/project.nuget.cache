@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TEcqSlaDaLQbw2B9RLASWHzjq2IYuUBcSvUNY/97ZSFm+mP+xWxR078VK/r48o5i7ba2C2bsECgF6h+69EEQCg==",
+  "dgSpecHash": "im1q2Q45kwgmB/Dgbl5aZgqTnCxILjJtqT3R4zF0ioc/PHgZNCZ5OSjArYcKvkBAnJYhW1s3QinWWbDwH9z3Ww==",
   "success": true,
-  "projectFilePath": "D:\\training\\designPattern\\DesignPattern\\BehavioralDesignPattern\\Iterator\\Iterator.csproj",
+  "projectFilePath": "D:\\1.NET\\Design pattern\\DesignPatterns\\DesignPattern\\BehavioralDesignPattern\\Iterator\\Iterator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

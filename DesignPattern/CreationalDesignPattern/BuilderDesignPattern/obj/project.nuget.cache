@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k81lmadxIRctSvYgzxTCCUK5eu1PxKC0F1nD7vR0cLyvAkCttuFZ6TCl/URVW7uy8nUsQ+FPgOxSf+uVb9hXnw==",
+  "dgSpecHash": "i10/vT+GubPJrle2+7Eqw54upWUA2uUWF/wxGs9YgsBWXRKt8kjPB6xntX+0i20uvmhvVhgGLojm4i/0xDHblQ==",
   "success": true,
-  "projectFilePath": "D:\\training\\designPattern\\DesignPattern\\CreationalDesignPattern\\BuilderDesignPattern\\BuilderDesignPattern.csproj",
+  "projectFilePath": "D:\\1.NET\\Design pattern\\DesignPatterns\\DesignPattern\\CreationalDesignPattern\\BuilderDesignPattern\\BuilderDesignPattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

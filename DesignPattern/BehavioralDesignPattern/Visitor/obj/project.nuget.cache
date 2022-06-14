@@ -1,8 +1,12 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "sY04lNNhMDqSieGUQKEyaRfr3goKBVpwmn/E8xwQFbyZg73iXGNr+3h0GGTWaBx0dtUCEk4aFJbeflqTYvf3Ug==",
+=======
+  "dgSpecHash": "s8S3La2qfe5FM3jMpgLJYtn1Zgsyvj+4B9PgnvEgG+kec1+zlz8ndmthlwC3R8jckgY7vBtmywSOV0ooT6VeGQ==",
+>>>>>>> 45f0185582c2b60b094d8035839cd9309d863290
   "success": true,
-  "projectFilePath": "D:\\training\\designPattern\\DesignPattern\\BehavioralDesignPattern\\Visitor\\Visitor.csproj",
+  "projectFilePath": "D:\\1.NET\\Design pattern\\DesignPatterns\\DesignPattern\\BehavioralDesignPattern\\Visitor\\Visitor.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -6,10 +6,16 @@
       "DisplayName": "Bridge",
       "ColorIndex": 0
     },
-    "e3dcb08a-e169-419e-b03a-7c1e6280f386": {
-      "ProjectGuid": "e3dcb08a-e169-419e-b03a-7c1e6280f386",
-      "DisplayName": "Proxy",
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "379785f2-ba96-421c-89b0-bba23eacf4fb": {
+      "ProjectGuid": "379785f2-ba96-421c-89b0-bba23eacf4fb",
+      "DisplayName": "Iterator",
       "ColorIndex": 1
+<<<<<<< HEAD
     },
     "605e196e-cc6c-4145-86bb-01d1ef4add35": {
       "ProjectGuid": "605e196e-cc6c-4145-86bb-01d1ef4add35",
@@ -73,4 +79,9 @@
     }
   },
   "NextColorIndex": 13
+=======
+    }
+  },
+  "NextColorIndex": 2
+>>>>>>> 45f0185582c2b60b094d8035839cd9309d863290
 }

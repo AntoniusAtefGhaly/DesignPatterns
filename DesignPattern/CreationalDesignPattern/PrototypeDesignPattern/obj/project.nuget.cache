@@ -1,8 +1,12 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "e6aZIXisoAzxOJfHT0wMTff9Q03XexbEC7ijdYRkYzxylkdyTK05TvKEGVqBZ/0xZ1vw/wVpo7dGLsntzCZn4w==",
+=======
+  "dgSpecHash": "eWIQN3MY3gZfnVI3eYHI0sWVGvSVG0Il5eLH1Golc1BCIw5tz0+pwNQhSN8g60qCM/TScYWOqk55jTmebzTe1Q==",
+>>>>>>> 45f0185582c2b60b094d8035839cd9309d863290
   "success": true,
-  "projectFilePath": "D:\\training\\designPattern\\DesignPattern\\CreationalDesignPattern\\PrototypeDesignPattern\\PrototypeDesignPattern.csproj",
+  "projectFilePath": "D:\\1.NET\\Design pattern\\DesignPatterns\\DesignPattern\\CreationalDesignPattern\\PrototypeDesignPattern\\PrototypeDesignPattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

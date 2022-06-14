@@ -1,8 +1,12 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "dA4yizFpQlD36eyENzV7B1OvJUqAuZ5AvhulM2JyrtL2wf8acfz454HSTOXfqrOstxpGDqxtHE3D/+wiCArO6Q==",
+=======
+  "dgSpecHash": "9+6SRU2xG+lAakFgOoAnZHIHh0e35imp4tHLY+KpHNF6BEyloNFROPjHROcvBcvXnnaWhJ5pHA9Mq6sGoEEdGw==",
+>>>>>>> 45f0185582c2b60b094d8035839cd9309d863290
   "success": true,
-  "projectFilePath": "D:\\training\\designPattern\\DesignPattern\\StructuralDesignPattern\\DeCorator\\Decorator.csproj",
+  "projectFilePath": "D:\\1.NET\\Design pattern\\DesignPatterns\\DesignPattern\\StructuralDesignPattern\\DeCorator\\Decorator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

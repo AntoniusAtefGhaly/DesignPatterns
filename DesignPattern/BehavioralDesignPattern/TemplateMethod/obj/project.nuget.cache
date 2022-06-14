@@ -1,8 +1,12 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "WAf0jJ6nEJv1eARv1UPm9gQ5gK0uXe90Pgl58ymwt1u85fdesIn3z/47Cxa4cDlz12B731uXZv6s4cpj9O/fBA==",
+=======
+  "dgSpecHash": "ofTDbn/zjPMl4mC5CPrgR8xIi9tF98CRa24EbYn2rzJVIkgAgRgXbFCaJAzxmBL5iHZveWySYgP7NfvZTOWuqw==",
+>>>>>>> 45f0185582c2b60b094d8035839cd9309d863290
   "success": true,
-  "projectFilePath": "D:\\training\\designPattern\\DesignPattern\\BehavioralDesignPattern\\TemplateMethod\\TemplateMethod.csproj",
+  "projectFilePath": "D:\\1.NET\\Design pattern\\DesignPatterns\\DesignPattern\\BehavioralDesignPattern\\TemplateMethod\\TemplateMethod.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

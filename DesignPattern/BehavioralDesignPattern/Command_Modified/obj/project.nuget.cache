@@ -1,8 +1,12 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "p8STpGTqpaWR8WVx+bl59aKd9wVyeu3gRiAgyyMnN+ToStLG1ad2NK/lDiuTkjUT7RUICmRUQPn9qy+4yc6ccw==",
+=======
+  "dgSpecHash": "Qj7F+s1moUbkvvIZB7fkMI6Vlf8DjYOq8DKyX/HpDZB1YsEYQs/v4c5unotwM6b1SpOjRa4wasV+759D/KJ8Dw==",
+>>>>>>> 45f0185582c2b60b094d8035839cd9309d863290
   "success": true,
-  "projectFilePath": "D:\\training\\designPattern\\DesignPattern\\BehavioralDesignPattern\\Command_Modified\\Command_Modified.csproj",
+  "projectFilePath": "D:\\1.NET\\Design pattern\\DesignPatterns\\DesignPattern\\BehavioralDesignPattern\\Command_Modified\\Command_Modified.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

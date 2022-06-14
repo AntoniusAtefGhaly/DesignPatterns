@@ -1,8 +1,12 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "4ndNCC21wcCBvFy8jvYAbzeglVTICtsYfGx8HN4iVi3SGPgWcDWmQPi2SdDY5+w6ARkJs1i3jp9jzjowIe5Mzg==",
+=======
+  "dgSpecHash": "a3ZbO5+WHdLDRGP/kLNodFlIE0zlKu1WrLeBjrcuQ31hX4mL2Wb2NAbMoEEjZAt6tgpBy2gjUsbC2jSpi72aew==",
+>>>>>>> 45f0185582c2b60b094d8035839cd9309d863290
   "success": true,
-  "projectFilePath": "D:\\training\\designPattern\\DesignPattern\\StructuralDesignPattern\\Composite\\Composite.csproj",
+  "projectFilePath": "D:\\1.NET\\Design pattern\\DesignPatterns\\DesignPattern\\StructuralDesignPattern\\Composite\\Composite.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,25 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "mhY4wJ8YqMGIJ1je3m6aYU1Qn53N4yn9oJtlDdzvH5u2JbjxKDZoQ30mgf31c3yPN4eKZPha87udvNrrfYc4ig==",
   "success": true,
   "projectFilePath": "D:\\training\\designPattern\\DesignPattern\\CreationalDesignPattern\\SingletonDesignPattern\\MultiThreadProblem\\MultiThreadProblem.csproj",
   "expectedPackageFiles": [],
+=======
+  "dgSpecHash": "LObwnUAtJ7WhxadxSlHTuF25wJwfp0eiwrMiSw1Oi848jXONil1p6KRYbKKWXMmo1DNDTv2F5+W1tPxgekApww==",
+  "success": true,
+  "projectFilePath": "D:\\1.NET\\Design pattern\\DesignPatterns\\DesignPattern\\CreationalDesignPattern\\SingletonDesignPattern\\MultiThreadProblem\\MultiThreadProblem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.1\\microsoft.aspnetcore.authorization.6.0.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.1\\microsoft.aspnetcore.components.6.0.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\6.0.1\\microsoft.aspnetcore.components.analyzers.6.0.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.metadata\\6.0.1\\microsoft.aspnetcore.metadata.6.0.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+>>>>>>> 45f0185582c2b60b094d8035839cd9309d863290
   "logs": []
 }

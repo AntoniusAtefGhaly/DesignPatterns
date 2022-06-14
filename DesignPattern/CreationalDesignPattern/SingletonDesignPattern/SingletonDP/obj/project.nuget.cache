@@ -1,8 +1,12 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "dxoiqv1gpKZuCs0rYhs/fuqKF9Dqc4uiZbzIOI78iHTjqAxjCt2O1dQMJW4awMf22EwcZeqvwyTG5whLhezDvA==",
+=======
+  "dgSpecHash": "8oCdYvMtanGPGVUxl5m0OI3vePQZNKjA6XsOhyNmkGOcM+tkUrfbA3jnLJrjkE1IiWoLeMz21EJer3hcv9PVHw==",
+>>>>>>> 45f0185582c2b60b094d8035839cd9309d863290
   "success": true,
-  "projectFilePath": "D:\\training\\designPattern\\DesignPattern\\CreationalDesignPattern\\SingletonDesignPattern\\SingletonDP\\BeforeSingletonDP.csproj",
+  "projectFilePath": "D:\\1.NET\\Design pattern\\DesignPatterns\\DesignPattern\\CreationalDesignPattern\\SingletonDesignPattern\\SingletonDP\\BeforeSingletonDP.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

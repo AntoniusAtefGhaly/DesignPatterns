@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "9RQPAarF9KUpySNpi/0dd4oZ1EPNvDs/tel3tI8RkTarEmlevuca9Dh74lj1ARE0DUnqt1idnnnOg46NI2vXOw==",
+  "dgSpecHash": "dxoiqv1gpKZuCs0rYhs/fuqKF9Dqc4uiZbzIOI78iHTjqAxjCt2O1dQMJW4awMf22EwcZeqvwyTG5whLhezDvA==",
   "success": true,
   "projectFilePath": "D:\\training\\designPattern\\DesignPattern\\CreationalDesignPattern\\SingletonDesignPattern\\SingletonDP\\BeforeSingletonDP.csproj",
   "expectedPackageFiles": [],

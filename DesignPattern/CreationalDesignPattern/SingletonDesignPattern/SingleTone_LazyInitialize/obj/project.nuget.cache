@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "wEenRhf+UmWcKC0tEzGpLcv6uEXpBU4TPNc7s8gcwhy+ZGrY7Vm1udlqV09TrXA89vl46TyN9zLkt8JeFUzQsA==",
+  "dgSpecHash": "lDbs5Q3thfaQbla2OUrvg3HW3jYiT9jDNubIia+c15vDopltRvw2Mr2hsU1U7lC1lWiD987ra09/t6qwWAEmOA==",
   "success": true,
   "projectFilePath": "D:\\training\\designPattern\\DesignPattern\\CreationalDesignPattern\\SingletonDesignPattern\\SingleTone_LazyInitialize\\SingleTone_LazyInitialize.csproj",
   "expectedPackageFiles": [],
